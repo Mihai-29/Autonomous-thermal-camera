@@ -23,4 +23,5 @@ The core script is written in Python and relies on:
 * Hardware interrupts (GPIO) for executing safe OS shutdowns preventing SD card corruption.
 
 Full Documentation
+
 For a complete in-depth analysis, including theoretical fundamentals, thermal tracking graphs, and comparisons against a commercial FLIR ETS320 camera, please refer to the attached `VântuMihail_Licenta.pdf`.
