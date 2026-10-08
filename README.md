@@ -1,11 +1,13 @@
 # Autonomous Thermal Camera using Raspberry Pi Zero 2 W
 
 Overview
+
 This repository contains the software, 3D enclosure files, and documentation for a fully autonomous, portable thermal imaging camera.
 The project was developed as my Bachelor's Thesis in Applied Electronics.
 The device captures raw thermal telemetry, processes it using spatial interpolation, and renders a live dynamic colormap on an integrated display.
 
 Hardware Components
+
 * **SBC:** Raspberry Pi Zero 2 W
 * **Thermal Sensor:** Melexis MLX90640-BAB (32x24 IR array) via I2C
 * **Display:** 2.0-inch IPS TFT LCD (ST7789 controller) via SPI
@@ -13,6 +15,7 @@ Hardware Components
 * **Enclosure:** Custom 3D-printed case designed in Autodesk Tinkercad
 
 Software Features
+
 The core script is written in Python and relies on:
 * `NumPy` for high-speed matrix normalization and manipulation.
 * `Matplotlib` ('inferno' colormap) to dynamically map temperatures.
