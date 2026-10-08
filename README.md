@@ -24,4 +24,4 @@ The core script is written in Python and relies on:
 
 Full Documentation
 
-For a complete in-depth analysis, including theoretical fundamentals, thermal tracking graphs, and comparisons against a commercial FLIR ETS320 camera, please refer to the attached `VântuMihail_Licenta.pdf`.
+For a complete in-depth analysis, including theoretical fundamentals, thermal tracking graphs, and comparisons against a commercial FLIR ETS320 camera, please refer to the attached `Autonomous_Thermal_Camera_Documentation.pdf`.
